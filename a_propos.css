@@ -1,3 +1,52 @@
+#tour {
+    height: 1400px;
+    padding-top: 5%;
+}
+#tour h2 {
+    padding-top: 60px;
+}
+#first {
+    background: url(images/site.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#second {
+    background: url(images/application.jpg);
+}
+#thirth {
+    background: url(images/marketing.jpg);
+    background-size: 100%;
+}
+#fourth {
+    background: url(images/infographie.jpg);
+}
+#tour li {
+    margin: 65px 100px 0 100px;
+    height: 226px;
+    width: 55%;
+    max-width: 550px;
+    float: left;
+    box-shadow: 6px 6px 28px -1px rgba(0,0,0,0.75);
+}
+#tour p {
+    height: 45px;
+    width: 235px;
+    background-color: #01df74;
+    float: right;
+    margin: 50px -180px 0 0;
+    font-size: 1.5em;
+    padding-top: 15px;
+    box-shadow: 4px 4px 0 1px rgba(90,161,43,1);
+}
+#tour #second, #tour #fourth {
+    float: right;
+}
+#second p, #fourth p {
+    float: left;
+    background-color: cyan;
+    margin-left: -180px;
+    box-shadow: -4px 4px 0 1px rgba(15,154,156,1);
+}
 footer{
-    top: 100%;
+    top: 200%;
 }
