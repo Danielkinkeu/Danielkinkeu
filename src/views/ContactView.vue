@@ -1,30 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title> Formulaire </title>
-    <meta charset="utf8">
-    <meta name="author" lang="fr" content="daniel kinkeu">
-    <meta name="description" content="">
-    <link rel="stylesheet" href="form.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="site.css" type="text/css" media="screen">
-    <link rel="icon" type="image/png" sizes="16x16" href="images/icone.jpg">
-</head>
-<body>
-    <header id="tete">
-        <div id="tet">
-           <center> <img id="sklf" src="images/icone.jpg" alt="sklf"\> </center>
-        </div>
-            <div id="menus">
-                <a href="site.html">Acceuil</a>
-            <a href="a_propos.html">A propos de nous</a>
-            <a href="Autre.html">Autres produits</a>
-            <a href="form.html">Contact</a>
-            </div>
-        </header>
-        <section>
+<template>
+       <section>
     <fieldset>
         <legend><h1>Contact</h1></legend>
         <form>
+     <tr>
             <div class="carre">
               <label for="name" class="infos ">Nom :</label>
              <center> <input type="text" id="name" name="user_name" required></center>
@@ -58,19 +37,7 @@
              <span class="carre"><input type="button" value="Annuler" ></span>
          </p>
          <br />
+         </form>
     </fieldset>
 </section>
-<br\><br\><br\><br\><br\><br\><br\><br\><br\><br\><br\><br\><br\><br\><br\><br\><br\><br\><br\><br\><br\><br\><br\><br\><br\><br\><br\><br\>
-
-    <footer>
-       
-        <div id="deuxiemeTrait"></div>
-        <div id="copyrightEtIcons">
-            <div id="copyright">
-                <span>© SKLF; 2022</span>
-            </div>
-        </div>
-
-    </footer>
-</body>
-</html>
+</template>
