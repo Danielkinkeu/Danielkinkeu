@@ -64,7 +64,7 @@ Mes dépôts publics reflètent une partie de mes expérimentations et outils :
 Vous avez un défi d'infrastructure complexe, une faille de sécurité à auditer ou un projet d'ingénierie ambitieux ? Discutons-en.
 
 - 📧 **Email :** [kinkeufranck@gmail.com](mailto:kinkeufranck@gmail.com)
-- 💼 **LinkedIn :** [Insérer_ton_lien_LinkedIn_ici](https://www.linkedin.com/in/fanck-daniel-kinkeu-demessong-526a2931b/)
+- 💼 **LinkedIn :** (https://www.linkedin.com/in/fanck-daniel-kinkeu-demessong-526a2931b/)
 - 📍 **Localisation :** Cameroun 🇨🇲
 
 <br>
